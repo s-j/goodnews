@@ -1,8 +1,8 @@
-![Alt text](https://github.com/s-j/goodnews/static/screenshot.png")
+![Alt text](https://raw.githubusercontent.com/s-j/goodnews/master/static/screenshot.png)
 
 ### A simple personalized feed using News API, word2vec and machine learning:
 
-![Alt text](https://github.com/s-j/goodnews/static/arch.png")
+![Alt text](https://raw.githubusercontent.com/s-j/goodnews/master/static/arch.png)
 
 ### Installation and running instructions:
 1. Run: ´pip install -r requirements´.

@@ -1,5 +1,8 @@
 ![Alt text](https://raw.githubusercontent.com/s-j/goodnews/master/static/screenshot.png)
 
+###
+* Full presentation: https://www.slideshare.net/s-j/good-news-135157290
+
 ### Installation and running instructions:
 1. Run: ´pip install -r requirements´.
 2. Run: ´python -m spacy download en_core_web_md-2.0.0 --direct´.

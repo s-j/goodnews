@@ -1,7 +1,10 @@
 ![Alt text](https://raw.githubusercontent.com/s-j/goodnews/master/static/screenshot.png)
 
-###
-* Full presentation: https://www.slideshare.net/s-j/good-news-135157290
+### Background and explanation:
+Full presentation: https://www.slideshare.net/s-j/good-news-135157290
+
+### Application architecture:
+![Alt text](https://raw.githubusercontent.com/s-j/goodnews/master/static/arch.png)
 
 ### Installation and running instructions:
 1. Run: ´pip install -r requirements´.
@@ -10,6 +13,3 @@
 4. Run: ´python main.py´.
 5. Navigate to http://localhost:5000.
 6. For training, copy data from logs to training directory. Run and see jupyter notebooks.
-
-### Application architecture:
-![Alt text](https://raw.githubusercontent.com/s-j/goodnews/master/static/arch.png)
